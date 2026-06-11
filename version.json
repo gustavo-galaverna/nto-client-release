@@ -1,4 +1,5 @@
 {
-  "version": "0.0.1",
-  "url": "https://github.com/gustavo-galaverna/nto-client-release/releases/download/0.0.1/client_v0.0.1.zip"
+    "version":  "0.0.2",
+    "url":  "https://github.com/gustavo-galaverna/nto-client-release/releases/download/0.0.2/client_v0.0.2.zip",
+    "sha256":  "169A382C99753003B495F57888FF23C17F0D67741AB01785C0F03D82D1A2654B"
 }
